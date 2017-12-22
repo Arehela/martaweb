@@ -1,0 +1,121 @@
+/*Principal*/
+body {
+     background-color: black;
+     background-repeat: no-repeat;
+     background-position:top;
+
+}
+
+#gif {
+  background-image: url("../imagenes/inicio.gif");
+}
+.encabezado {
+
+  background-color: inherit;
+  margin: 50px 0px;
+  padding-left: 100px;
+  width: 200px;
+}
+
+.encabezado a {
+text-decoration: none;
+display: block;
+padding: 20px;
+color: white;
+font-size: 20px;
+
+}
+
+.encabezado a:hover {
+background-color: white;
+color: black;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+  margin: 400px 600px;
+  width: 10%;
+  font-family: "Arial", sans-serif;
+  }
+
+
+  }
+  /*Biografia*/
+  #biografia{
+    color: white;
+    background-color: black;
+  }
+
+img {
+  margin-left: 100px;
+  display: block;
+}
+
+p
+  {
+    color: white;
+    margin: 50px 100px;
+    border-style: solid;
+    border-color: grey;
+    font-family: "Arial";
+    text-align: justify;
+    letter-spacing: 2px;
+    text-indent: 50px;
+}
+
+
+  /*Formulario (Identificarse)*/
+  form{
+  	width: 40%;
+  	margin: 150px 200px;
+    background-color: grey;
+    back
+
+
+  }
+
+  div{
+  	margin: 5px auto;
+  }
+
+  div label{
+  	width: 35%;
+  	float: left;
+    color: white;
+    font-family: "Arial";
+    padding-left: 12px
+  }
+
+  h3 {
+  color: black;
+  text-align: center;
+  margin: 30px 20px;
+  }
+
+  .botones{
+    padding-top: 50px;
+    padding-bottom: 25px;
+  	width: 35%;
+  	margin: 0 auto;
+    font-family:serif;
+
+  }
+  .colorboton{
+  	background-color: white;
+    width: 40%;
+    height: 30%;
+
+  }
+
+  /*Galeria*/
+  body {
+    font-family: sans-serif;
+}
+
+.item img {
+    border: 1px solid grey;
+    width: 500px;
+    margin: 50px 50px 50px 50px;
+
+}
